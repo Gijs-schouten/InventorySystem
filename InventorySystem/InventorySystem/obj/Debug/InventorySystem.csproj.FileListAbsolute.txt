@@ -1,0 +1,7 @@
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\Files\_School\Bewijzenmap\p3\proeflol\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
